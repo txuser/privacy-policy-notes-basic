@@ -1,0 +1,28 @@
+# Privacy Policy of "Notes Basic"
+-  「かんたんシンプルメモ」のプライバシー ポリシー
+
+<br>
+<br>
+
+## 1. Handling of user information
+This application uses Google AdMob for ad serving and Google Firebase Analytics for usage analysis.<br>
+Although they obtain ad IDs for ad delivery, I do not use them to identify individuals or for other purposes.<br>
+For more information, please see the Privacy Policy link below.<Br>
+AdMob (Google Inc.): https://policies.google.com/technologies/ads?hl=en <br>
+Firebase Analytics (Google Inc.): https://policies.google.com/privacy?hl=en <br>
+
+## 2. Contact information
+https://docs.google.com/forms/d/e/1FAIpQLScgrxtJyaPJAmAQDXXpjeXB_2ahjEpz8G7728PFAStx7iVM7w/viewform
+
+<br>
+<br>
+
+## 1. 利用者情報の取り扱い
+本アプリでは、広告配信のためにGoogle AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用する場合があります。<br>
+広告配信のために広告IDを取得していますが、個人を特定するため等には使用しておりません。<br>
+取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。<br>
+AdMob（Google Inc.）: https://policies.google.com/technologies/ads?hl=ja <br>
+Firebase Analytics（Google Inc.）: https://policies.google.com/privacy?hl=ja <br>
+
+## 2. お問い合わせ先
+https://docs.google.com/forms/d/e/1FAIpQLScgrxtJyaPJAmAQDXXpjeXB_2ahjEpz8G7728PFAStx7iVM7w/viewform
